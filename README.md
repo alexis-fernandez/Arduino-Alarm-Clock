@@ -16,6 +16,10 @@ This Arduino program implements a clock with an alarm feature using an Arduino b
 
 Connect the components to the Arduino board based on the provided pin configuration in the code.
 
+## Schematic
+
+![Schematic](Schematic.png)
+
 ## Usage
 
 The program reads values from three buttons to control cursor movement, character changes, and alarm setting. The LCD displays hours, minutes, seconds, date, month, and year. The clock is based on a standard month having 30 days.
